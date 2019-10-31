@@ -44,3 +44,12 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+*.cmd
+*.js
+.test.bats
+hs
+http-server
+ng
+tsc
+tsserver
+tsun
